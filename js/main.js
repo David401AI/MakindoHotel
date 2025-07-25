@@ -529,7 +529,7 @@ if (blogKey && blogs[blogKey]) {
       return;
     }
 
-    if (name.toLowerCase() === 'deus makindo' && pw === 'Hitman_47') {
+    if (name.toLowerCase() === 'deus makindo' && pw === '19828282') {
       window.location.href = 'blog-post.html';
     } else {
       showMessage('Invalid credentials. Try again.');
